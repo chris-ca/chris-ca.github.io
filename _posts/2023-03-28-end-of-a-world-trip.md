@@ -3,7 +3,7 @@ layout: post
 title: End of a world trip
 subtitle: It was great. 
 cover-img: /assets/img/header-norway.jpg
-thumbnail-img: /assets/img/thumb-norway.png
+thumbnail-img: /assets/img/thumb-norway.jpg
 share-img: /assets/img/path.jpg
 tags: [travel]
 ---
