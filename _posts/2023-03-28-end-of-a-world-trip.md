@@ -8,6 +8,11 @@ share-img: /assets/img/path.jpg
 tags: [travel]
 ---
 
-All good things have to come to an end at some point, and this journey is no exception!
+All good things have to come to an end at some point. This journey is no exception!
 
-When I set out in 2018 with a vague goal of a "bicycle world tour" in mind, I never expected it to last almost 5 years. Of course, I had certain ideas, or even ideals on my mind. But they were never cast in stone. Only one thing: 5 years will be the end of it.
+When I set out in mid 2018 with a vague goal of a "bicycle world tour" in mind, I never expected it to last almost 5 years. I never thought to cycle almost  40.000 km in harsh weather conditions. Of course, I had certain ideas, or even ideals on my mind. But they were never cast in stone. Only one thing, I swore to myself: 5 years will be the end of it.
+
+And here we are.
+
+Almost 5 years later, I'm ready to open a new chapter. Let's see what's written next.
+
