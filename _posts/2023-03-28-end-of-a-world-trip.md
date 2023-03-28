@@ -8,4 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [travel]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All good things have to come to an end at some point, and this journey is no exception!
+
+When I set out in 2018 with a vague goal of a "bicycle world tour" in mind, I never expected it to last almost 5 years. Of course, I had certain ideas, or even ideals on my mind. But they were never cast in stone. Only one thing: 5 years will be the end of it.
